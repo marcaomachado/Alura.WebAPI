@@ -1,0 +1,13 @@
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.deps.json
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.AssemblyReference.cache
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfoInputs.cache
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.AssemblyInfo.cs
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.csproj.CoreCompileInputs.cache
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.dll
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.pdb
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.runtimeconfig.json
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\bin\Debug\netcoreapp2.1\Alura.WebAPI.Model.runtimeconfig.dev.json
+C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.Model\obj\Debug\netcoreapp2.1\Alura.WebAPI.Model.genruntimeconfig.cache

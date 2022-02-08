@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Alura.WebAPI.Model/1.0.0": {
+        "runtime": {
+          "Alura.WebAPI.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alura.WebAPI.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
