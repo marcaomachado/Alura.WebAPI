@@ -28,6 +28,16 @@ namespace Alura.WebAPI.WebApp.Api
             return NotFound();
         }
 
+        [HttpGet]
+        public IActionResult RecuperarLista()
+        {
+            if(_repo != null)
+            {
+                return Json(_repo);
+            }
+            return NotFound();
+        }
+
         [HttpPost]
         public IActionResult Incluir([FromBody] LivroUpload model)
         {
