@@ -8,7 +8,9 @@ using System.Threading.Tasks;
 
 namespace Alura.WebAPI.WebApp.Api
 {
-    public class LivrosController : Controller
+    [ApiController]
+    [Route("[controller]")]
+    public class LivrosController : ControllerBase
     {
         private readonly IRepository<Livro> _repo;
 
@@ -17,13 +19,13 @@ namespace Alura.WebAPI.WebApp.Api
             _repo = repository;
         }
 
-        [HttpGet]
+        [HttpGet("{id}")]
         public IActionResult Recuperar(int id)
         {
             var livro = _repo.Find(id);
             if (livro != null)
             {
-                return Json(livro.ToModel());
+                return Ok(livro.ToModel());
             }
             return NotFound();
         }
@@ -33,7 +35,7 @@ namespace Alura.WebAPI.WebApp.Api
         {
             if(_repo != null)
             {
-                return Json(_repo);
+                return Ok(_repo.All.Select(l =>l.ToModel()).ToList());
             }
             return NotFound();
         }
@@ -72,7 +74,7 @@ namespace Alura.WebAPI.WebApp.Api
         }
 
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public IActionResult Remover(int id)
         {
             var livro = _repo.Find(id);
