@@ -8,6 +8,5 @@ C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Re
 C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfoInputs.cache
 C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.AssemblyInfo.cs
 C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CoreCompileInputs.cache
-C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.csproj.CopyComplete
 C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.dll
 C:\Users\142598\OneDrive - Localiza\Documentos\C#\ASP.NET Core Rest APIs\APIs Rest com Asp.NET Core 2.1 Parte 1\Alura.WebAPI\Alura.WebAPI.DAL.Livros\obj\Debug\netcoreapp2.1\Alura.WebAPI.DAL.Livros.pdb
